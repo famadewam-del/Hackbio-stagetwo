@@ -22,7 +22,7 @@ The cells identified were:
 
 **Plasma cells:** Terminally differentiated B cells that produce and secrete **large amounts of antibodies.** Many plasma cells **reside in the bone marrow long-term.**
 
-- **Is the tissue source really bone marrow? Justify your answer**
+3. Is the tissue source really bone marrow? Justify your answer**
 - **A true bone-marrow sample should show:**
 
 - Multiple **erythroid lineage** stages (proerythroblasts → erythroblasts)
