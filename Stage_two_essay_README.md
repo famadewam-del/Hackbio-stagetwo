@@ -1,7 +1,7 @@
 
 **Hack-bio_stage_2_essay**
 
-- What cells types did you identify?
+1. What cells types did you identify?
 
 The cells identified were:
 
@@ -11,7 +11,7 @@ The cells identified were:
 - Platelets
 - Plasma cells
 
-- Explain the biological role of each cell type?
+2. Explain the biological role of each cell type?
 
 **Monocytes:** Innate immune cells circulating in the blood. They also play a role in both the inflammatory and anti-inflammatory processes that take place during an immune response
 
@@ -23,7 +23,7 @@ The cells identified were:
 
 **Plasma cells:** Terminally differentiated B cells that produce and secrete **large amounts of antibodies.** Many plasma cells **reside in the bone marrow long-term.**
 
-- **Is the tissue source really bone marrow? Justify your answer**
+3. Is the tissue source really bone marrow? Justify your answer**
 - **A true bone-marrow sample should show:**
 
 - Multiple **erythroid lineage** stages (proerythroblasts → erythroblasts)
