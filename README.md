@@ -1,6 +1,6 @@
 **Hack-bio stage 2 assignment**
 
-- What cells types did you identify?
+1. What cells types did you identify?
 
 The cells identified were:
 
@@ -10,7 +10,7 @@ The cells identified were:
 - Platelets
 - Plasma cells
 
-- Explain the biological role of each cell type?
+2. Explain the biological role of each cell type?
 
 **Monocytes:** Innate immune cells circulating in the blood. They also play a role in both the inflammatory and anti-inflammatory processes that take place during an immune response
 
